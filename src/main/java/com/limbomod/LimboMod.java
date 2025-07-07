@@ -1,5 +1,6 @@
 package com.limbomod;
 
+import com.limbomod.item.Moditems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -19,6 +20,6 @@ public class LimboMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Hello Fabric world!");
+		Moditems.registerModItems();
 	}
 }
