@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "models": "limbomod:block/acommand_block"
+    }
+  }
+}

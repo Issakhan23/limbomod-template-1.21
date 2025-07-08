@@ -1,5 +1,6 @@
 package com.limbomod;
 
+import com.limbomod.block.ModBlocks;
 import com.limbomod.item.Moditems;
 import net.fabricmc.api.ModInitializer;
 
@@ -21,5 +22,6 @@ public class LimboMod implements ModInitializer {
 		// Proceed with mild caution.
 
 		Moditems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
