@@ -24,4 +24,5 @@ public class LimboMod implements ModInitializer {
 		Moditems.registerModItems();
 		ModBlocks.registerModBlocks();
 	}
+
 }

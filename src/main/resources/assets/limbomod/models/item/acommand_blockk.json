@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/tempate_command_block",
+  "textures": {
+    "back": "limbomod:block/acbb",
+    "front": "limbomod:block/acbf",
+    "side": "limbomod:block/acbs"
+  }
+
+
+
+}

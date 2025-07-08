@@ -1,5 +1,7 @@
 {
+  "item.limbomod.limbo_lightt": "Limbo Light",
   "item.limbomod.limbo_light": "Limbo Light",
-
+  "item.limbomod.accommand_blockt": "Command Block",
+  "item.limbomod.acommand_blockk": "Command Block",
   "block.limbomod.acommand_block": "Command Block"
 }
